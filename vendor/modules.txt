@@ -1,0 +1,14 @@
+# github.com/wuryscamp/go-mongo-tutorial v0.0.0-20180324100453-23a533b025d6
+## explicit
+github.com/wuryscamp/go-mongo-tutorial/config
+# gopkg.in/check.v1 v1.0.0-20201130134442-10cb98267c6c
+## explicit; go 1.11
+# gopkg.in/mgo.v2 v2.0.0-20190816093944-a6b53ec6cb22
+## explicit
+gopkg.in/mgo.v2
+gopkg.in/mgo.v2/bson
+gopkg.in/mgo.v2/internal/json
+gopkg.in/mgo.v2/internal/sasl
+gopkg.in/mgo.v2/internal/scram
+# gopkg.in/yaml.v2 v2.4.0
+## explicit; go 1.15
